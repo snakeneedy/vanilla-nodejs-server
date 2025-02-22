@@ -1,0 +1,13 @@
+{
+  "name": "vanilla-nodejs-server",
+  "version": "1.0.0",
+  "description": "Vanilla NodeJS Server",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node"],
+  "author": "Pin-Xuan She"
+}
